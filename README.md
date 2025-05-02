@@ -1,4 +1,4 @@
-A gcode generator for gbr files
+A gcode generator for gbr files derived from gbr2ngc.
 
 ## Build on Linux
 
