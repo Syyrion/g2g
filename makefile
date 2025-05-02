@@ -13,6 +13,6 @@ g2g: $(headers) $(obj)
 	g++ -lm -o $@ $(obj)
 
 
-.PHONY run 
+.PHONY: run 
 run: g2g
 	./g2g --zengarden -r 0.05 test_front_cu.gbr -o test.gcode
