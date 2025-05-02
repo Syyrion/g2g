@@ -21,6 +21,8 @@
 #ifndef GBL2NGC_HPP
 #define GBL2NGC_HPP
 
+#define _USE_MATH_DEFINES
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

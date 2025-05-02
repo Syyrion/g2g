@@ -30,10 +30,10 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include <stdint.h>
 
 #include <math.h>
 
-//#include "tesexpr.h"
 #include "string_ll.h"
 
 //#define GERBER_STATE_LINEBUF 4099

@@ -1,4 +1,5 @@
 .vscode/
 build/
 g2g
-tests/gcode/
+g2g.exe
+tests/gcode
