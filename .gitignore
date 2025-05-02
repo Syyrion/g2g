@@ -1,2 +1,4 @@
 .vscode/
 build/
+g2g
+tests/gcode/
